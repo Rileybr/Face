@@ -74,7 +74,7 @@ turtle.speed(100)
 
 draw_face()
 
-face_to_eye()
+face_to_eye()  # Ignore this comment
 
 draw_eye()  # left eye
 
